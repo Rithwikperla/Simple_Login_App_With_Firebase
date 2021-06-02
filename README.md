@@ -12,7 +12,9 @@ Google firebase is very good service provider in terms of data validation, data 
 
 Register UI:
 ![](Register_Activity.jpg)
+
 Login UI:
 ![](Login_Activity.jpg)
+
 Reset UI:
 ![](Reset_Activity.jpg)
