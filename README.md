@@ -1,6 +1,6 @@
 # Simple_Login_App_With_Firebase
 
-Features
+Features:
 Create account
 Email verification for new accounts
 Sign in to account
