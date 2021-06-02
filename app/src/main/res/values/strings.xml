@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Loginapp</string>
+    <string name="Clicklogin">Press here to login</string>
+</resources>
